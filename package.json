@@ -1,0 +1,25 @@
+{
+  "name": "min-stream-to-buffer",
+  "version": "1.0.0",
+  "description": "A minimal parse from a stream to buffer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clouby/min-stream-to-buffer.git"
+  },
+  "keywords": [
+    "buffer",
+    "stream",
+    "parse"
+  ],
+  "author": "Carlos López",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clouby/min-stream-to-buffer/issues"
+  },
+  "homepage": "https://github.com/clouby/min-stream-to-buffer#readme"
+}
