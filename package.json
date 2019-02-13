@@ -1,7 +1,7 @@
 {
   "name": "min-stream-to-buffer",
   "version": "1.0.0",
-  "description": "A minimal parse from a stream to buffer",
+  "description": "A minimal parser from a stream to buffer",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
